@@ -8,7 +8,7 @@ yang digunakan dalam aplikasi Nusakarsa.
 -->
 
 <p align="center">
-  <img src="[[path/to/nusakarsa-logo.pn](https://raw.githubusercontent.com/Zombiesigma/nusakarsa-assets/main/download.webp)](https://raw.githubusercontent.com/Zombiesigma/nusakarsa-assets/main/download.webp?v=1)" alt="Logo Nusakarsa" width="160" />
+  <img src="https://raw.githubusercontent.com/Zombiesigma/nusakarsa-assets/main/download.webp?v=1" alt="Logo Nusakarsa" width="160" />
 </p>
 
 <h1 align="center">📦 Direktori Aset & Atribusi<br />Nusakarsa</h1>
