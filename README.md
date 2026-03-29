@@ -91,7 +91,7 @@ Dokumen ini adalah bagian dari komitmen Nusakarsa terhadap **lisensi terbuka dan
 - Atau sekadar bertanya tentang penggunaan aset tertentu,
 
 Silakan buka **issue** di repositori ini atau hubungi:  
-**legal@nusakarsa.app**
+**admin@himmel.web.id** | **gunturfadilah140@gmail.com** | **nursyifaaeni1010@gmail.com**
 
 ---
 
