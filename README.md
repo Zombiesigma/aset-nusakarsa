@@ -11,7 +11,7 @@ yang digunakan dalam aplikasi Nusakarsa.
   <img src="https://raw.githubusercontent.com/Zombiesigma/nusakarsa-assets/main/download.webp?v=1" alt="Logo Nusakarsa" width="160" />
 </p>
 
-<h1 align="center">📦 Direktori Aset & Atribusi<br />Nusakarsa</h1>
+<h1 align="center">Direktori Aset & Atribusi<br />Nusakarsa</h1>
 
 <p align="center">
   <strong>Transparansi penuh terhadap lisensi dan kredit aset digital</strong><br />
@@ -26,22 +26,22 @@ yang digunakan dalam aplikasi Nusakarsa.
 
 ---
 
-## 🙏 Penghargaan
+## Penghargaan
 
 Terima kasih kepada seluruh kreator, desainer, dan platform yang karyanya memperindah antarmuka **Nusakarsa**. Setiap aset digunakan sesuai dengan ketentuan lisensi masing-masing. Jika terdapat atribusi yang kurang tepat, silakan hubungi tim kami.
 
 ---
 
-## 🖼️ Aset Visual
+## Aset Visual
 
-### 🧾 Logo & Branding
+### Logo & Branding
 
 | Aset | Keterangan | Lisensi |
 |------|------------|---------|
 | **Logo Nusakarsa** | Desain orisinal oleh tim Nusakarsa. Buku terbuka dengan sulur tanaman – melambangkan pertumbuhan dan kearifan lokal. | © Hak Cipta Nusakarsa |
 | **Ikon UI (Lucide)** | Koleksi ikon antarmuka modern. | [ISC License](https://lucide.dev/license) |
 
-### 🌄 Ilustrasi & Gambar Latar
+### Ilustrasi & Gambar Latar
 
 Semua gambar bersumber dari platform berlisensi bebas pakai dengan atribusi non-wajib (namun kami tetap mencantumkan sebagai bentuk apresiasi).
 
@@ -51,7 +51,7 @@ Semua gambar bersumber dari platform berlisensi bebas pakai dengan atribusi non-
 | [Pexels](https://www.pexels.com) | [Pexels License](https://www.pexels.com/license/) |
 | [Freepik](https://www.freepik.com) | [Freepik Terms](https://www.freepikcompany.com/legal) |
 
-#### 📸 Atribusi spesifik
+#### Atribusi spesifik
 
 | Penggunaan | Sumber | Kreator |
 |------------|--------|---------|
@@ -61,7 +61,7 @@ Semua gambar bersumber dari platform berlisensi bebas pakai dengan atribusi non-
 
 ---
 
-## ✒️ Tipografi
+## Tipografi
 
 Kombinasi font terpilih untuk hierarki visual yang elegan dan keterbacaan optimal.
 
@@ -73,7 +73,7 @@ Kombinasi font terpilih untuk hierarki visual yang elegan dan keterbacaan optima
 
 ---
 
-## 🎵 Musik & Audio
+## Musik & Audio
 
 | Aset | Sumber | Lisensi |
 |------|--------|---------|
@@ -82,7 +82,7 @@ Kombinasi font terpilih untuk hierarki visual yang elegan dan keterbacaan optima
 
 ---
 
-## 🛠️ Penggunaan & Kontribusi
+## Penggunaan & Kontribusi
 
 Dokumen ini adalah bagian dari komitmen Nusakarsa terhadap **lisensi terbuka dan etika atribusi**. Jika Anda:
 
@@ -91,7 +91,7 @@ Dokumen ini adalah bagian dari komitmen Nusakarsa terhadap **lisensi terbuka dan
 - Atau sekadar bertanya tentang penggunaan aset tertentu,
 
 Silakan buka **issue** di repositori ini atau hubungi:  
-📧 **legal@nusakarsa.app**
+**legal@nusakarsa.app**
 
 ---
 
